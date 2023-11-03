@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/saml2",
+    "name": "bruno-farias/saml2",
     "description": "SAML2 Service Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
